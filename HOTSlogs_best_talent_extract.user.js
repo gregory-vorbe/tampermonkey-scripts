@@ -2,6 +2,8 @@
 // @name         Talent Extract
 // @namespace    http://tampermonkey.net/
 // @version      0.1
+// @downloadURL    https://github.com/gregory-vorbe/tampermonkey-scripts/raw/main/HOTSlogs_best_talent_extract.user.js
+// @updateURL    https://github.com/gregory-vorbe/tampermonkey-scripts/raw/main/HOTSlogs_best_talent_extract.user.js
 // @description  try to take over the world!
 // @author       You
 // @match        https://www.hotslogs.com/sitewide/talentdetails*
