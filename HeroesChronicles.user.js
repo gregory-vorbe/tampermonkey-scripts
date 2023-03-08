@@ -2,6 +2,8 @@
 // @name         Heroes Chronicles Utilities
 // @namespace    http://tampermonkey.net/
 // @version      0.1
+// @downloadURL    https://github.com/gregory-vorbe/tampermonkey-scripts/raw/main/HeroesChronicles.user.js
+// @updateURL    https://github.com/gregory-vorbe/tampermonkey-scripts/raw/main/HeroesChronicles.user.js
 // @description  Full PA ETA. Order monsters list by level.
 // @author       Pangloss
 // @match        http://heroeschronicles.nainwak.org/interface.php
