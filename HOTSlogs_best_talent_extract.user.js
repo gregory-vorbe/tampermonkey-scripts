@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Talent Extract
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @downloadURL    https://github.com/gregory-vorbe/tampermonkey-scripts/raw/main/HOTSlogs_best_talent_extract.user.js
 // @updateURL    https://github.com/gregory-vorbe/tampermonkey-scripts/raw/main/HOTSlogs_best_talent_extract.user.js
 // @description  try to take over the world!
-// @author       You
+// @author       Fluidz91
 // @match        https://www.hotslogs.com/sitewide/talentdetails*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=hotslogs.com
 // @grant        none
@@ -70,8 +70,8 @@
                             paliers = [[0,1,2],[3,4,5],[6,7,8],[9,10],[11,12,13,14],[15,16,17,18],[19,20,21,22]];
                             break;
                         case 'Valeera':
-                            //4-4-3-4-3-4
-                            paliers = [[0,1,2,3],[4,5,6,7],[8,9,10],[11,12,13,14],[16,17,18],[19,20,21,22]];
+                            //4-4-3-2-3-3-4
+                            paliers = [[0,1,2,3],[4,5,6,7],[8,9,10],[11,12],[13,14,15],[16,17,18],[19,20,21,22]];
                             break;
                         case 'Maiev':
                         case 'Deathwing':
