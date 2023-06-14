@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Talent Extract
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @downloadURL    https://github.com/gregory-vorbe/tampermonkey-scripts/raw/main/HOTSlogs_best_talent_extract.user.js
 // @updateURL    https://github.com/gregory-vorbe/tampermonkey-scripts/raw/main/HOTSlogs_best_talent_extract.user.js
 // @description  try to take over the world!
@@ -64,6 +64,10 @@
                         case 'Gul\'dan':
                             //3-3-3-2-4-3-3
                             paliers = [[0,1,2],[3,4,5],[6,7,8],[9,10],[11,12,13,14],[15,16,17],[18,19,20]];
+                            break;
+                        case 'Li-Ming':
+                            //3-3-3-2-3-4-4
+                            paliers = [[0,1,2],[3,4,5],[6,7,8],[9,10],[11,12,13],[14,15,16,17],[18,19,20,21]];
                             break;
                         case 'Lunara':
                             //3-3-3-2-4-4-4
